@@ -1,13 +1,13 @@
 *******************
-PROJECT DESC
+REPOSITORY DESCRIPTION
 *******************
 
 Framework : CodeIgniter v.3.1.11
 
 DBMS : MySql
 
-Front End Template = Finder
+HTML CSS Template = Finder
 
 *******************
-FILE SQL TERLAMPIR PADA GIT
+Note: The SQL file is already attached to the repository
 *******************
